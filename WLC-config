@@ -1,2 +1,4 @@
 config ap cert mic en 
 config ap cert ssc en
+
+reset system forced <--- คำสั่งล้าง
